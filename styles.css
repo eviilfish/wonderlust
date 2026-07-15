@@ -408,13 +408,13 @@ small {
   background: var(--turquoise-blue);
   color: #fff;
   font-weight: 700;
-  left: 20%;
+  left: 16%;
   padding: 4px;
   position: absolute;
-  transform: translateY(-1010%);
+  transform: translateY(-1120%);
 }
-.skip-link:focus {
-  transform: translateY(0%);
+.skip-link:focus-within {
+  transform: translateY(-1020%);
 }
 .skip-link {
   transition: transform 0.3s;
