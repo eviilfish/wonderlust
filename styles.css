@@ -408,18 +408,18 @@ small {
   background: var(--turquoise-blue);
   color: #fff;
   font-weight: 700;
-  left: 50%;
+  left: 20%;
   padding: 4px;
   position: absolute;
-  transform: translateY(-100%);
+  transform: translateY(-1010%);
 }
-
 .skip-link:focus {
   transform: translateY(0%);
 }
 .skip-link {
   transition: transform 0.3s;
 }
+
 /* ----------------- GLOBAL STYLES (MEDIUM) -----------------*/
 @media screen and (min-width: 920px){
     h1 {
