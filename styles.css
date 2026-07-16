@@ -411,7 +411,7 @@ small {
   left: 40%;
   padding: 4px;
   position: absolute;
-  transform: translateY(-1120%);
+  transform: translateY(-1150%);
 }
 .skip-link:focus-within {
   transform: translateY(-1020%);
